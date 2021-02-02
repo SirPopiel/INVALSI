@@ -1,7 +1,7 @@
 # This script extracts the best performing schools among the ones showing significant discrepancies from mean performances
 #  both at an average level and student interaction level.
 
-setwd("~/GitHub/INVALSI/Data")
+setwd("../Data")
 
 invalsi <- read.csv("cleaned_invalsi.csv")
 excel <- read.csv2("excel.csv")

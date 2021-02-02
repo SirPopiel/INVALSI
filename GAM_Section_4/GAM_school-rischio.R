@@ -1,6 +1,6 @@
 # The goal of this notebooks is to use GAMs in order to predict the worst schools
 
-setwd("~/GitHub/INVALSI/Data")
+setwd("../Data")
 gpp <- read.csv("gppp.csv")
 
 library(mgcv)

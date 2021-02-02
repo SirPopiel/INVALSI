@@ -1,4 +1,4 @@
-setwd("~/GitHub/INVALSI/Data")
+setwd("../Data")
 
 invalsi <- read.csv("cleaned_invalsi.csv")
 excel <- read.csv2("excel.csv")
