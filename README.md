@@ -1,4 +1,4 @@
-# INVALSI
+# Learning analytics: an investigation on the influence of school quality in overcoming social inequalities
 
 Nonparametric Statistics Course held @ Politecnico di Milano by Professor Francesca Ieva, Professor Simone Vantini and Doctor Matteo Fontana 
 
